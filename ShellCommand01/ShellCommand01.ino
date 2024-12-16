@@ -19,8 +19,8 @@ de outros se conectarem
 
 #include <ESP8266WiFi.h>
 
-#define SSID "Administrativo 2.4Ghz"
-#define PASSWD "zilocchi@123456"
+#define SSID "xxx"
+#define PASSWD "xxx"
 #define SOCK_PORT 123
 
 #define led 2
